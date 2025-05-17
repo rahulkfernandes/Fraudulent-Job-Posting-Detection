@@ -6,9 +6,9 @@ This project implements a fraudulent job posting classifier based on the title, 
 ## Dataset
 - title: Title of the job posting.
 - location: Location of the job.
-- description: Job Description.
+- description: Job description.
 - requirements: Job requirements.
-- telecommuting (Binary): On-Site or WFH/Hybrid 
+- telecommuting (Binary): On-Site or WFH/Hybrid. 
 - has_company_logo (Binary): Presence of the company logo in the posting.
 - has_questions (Binary): Presence of questions to the potential applicants.
 - fraudulent (Binary): Dependent variable stating the authenticity of the posting.
